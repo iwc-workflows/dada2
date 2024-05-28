@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2024-03-11T14:51:55.650444",
+            "datePublished": "2024-05-28T11:44:29.989985",
             "hasPart": [
                 {
                     "@id": "dada2_paired.ga"
@@ -67,7 +67,7 @@
                     "@id": "#0000-0003-3763-0797"
                 },
                 {
-                    "@id": "#a62de5b2-0091-42c9-b160-6c62934181c1"
+                    "@id": "#b97bc063-c554-4f1c-8748-5340ad6c90e0"
                 }
             ],
             "name": "dada2/main",
@@ -75,7 +75,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/dada2",
-            "version": "0.1"
+            "version": "0.2"
         },
         {
             "@id": "#galaxy",
@@ -95,7 +95,7 @@
             "name": "Matthias Bernt"
         },
         {
-            "@id": "#a62de5b2-0091-42c9-b160-6c62934181c1",
+            "@id": "#b97bc063-c554-4f1c-8748-5340ad6c90e0",
             "@type": "Organization",
             "name": "UFZ Leipzig"
         },
@@ -146,7 +146,7 @@
             "conformsTo": {
                 "@id": "https://w3id.org/ro/terms/test#PlanemoEngine"
             },
-            "engineVersion": ">=0.75.21"
+            "engineVersion": ">=0.75.23"
         },
         {
             "@id": "https://w3id.org/ro/terms/test#PlanemoEngine",
